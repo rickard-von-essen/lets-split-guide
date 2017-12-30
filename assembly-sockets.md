@@ -57,7 +57,7 @@ Section yet to be filled.
 ## Mount the sockets
 
 First thing to do, is to mount the sockets, as these benefit from having the front side of the PCB entirely flat.
-Place the PCB down with the connectors facing up, and begin inserting a socket into each switch position, making sure to like them up with the pads.
+Place the PCB down with the connectors facing up, and begin inserting a socket into each switch position, making sure to line them up with the pads.
 ![](images/socket-version/sockets.jpg)
 
 
